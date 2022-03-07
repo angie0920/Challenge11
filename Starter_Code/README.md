@@ -1,4 +1,4 @@
-# Predicting with Facebook Prophet Challenge 6 Submission
+# Predicting with Facebook Prophet Challenge (11) Submission
 This challenge analyzes the Mercado Libre's user data to predict search traffic using Facebook's prediction model, Prophet (formally FBprophet).
 --
 
